@@ -1,0 +1,38 @@
+body{
+  background-color:rgba(173, 145, 185, 0.1);
+  backdrop-filter: blur(10px);
+-webkit-backdrop-filter: blur(10px);
+}
+
+header{
+  border-radius: 0 10%;
+  height: max-content;
+  width: 2% 120%;
+  background-color: #2F3576;
+  font-size-adjust: inherit;
+  font-family: sans-serif;
+  color: #E8E9EC;
+
+}
+div button{
+  background-color: #2F3576;  
+  color: #F1F1F1;
+  border-radius: 50px 21px 50px;
+  height: 50%;
+  width: 3%;
+  
+}
+
+ textarea{
+  background-color:#E8E9EC ;
+}
+
+footer button{
+  background-color: #2F3576;
+
+  border-radius: 50px 21px 40px;
+  margin-left: auto;
+  margin-top: 1em;
+  cursor: pointer;
+
+}
